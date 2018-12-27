@@ -1,1 +1,1 @@
-![](https://github.com/ScottMorse/HourClock/blob/master/gifs/clock.gif)
+![](https://github.com/ScottMorse/HourClock/blob/master/clock.gif)
