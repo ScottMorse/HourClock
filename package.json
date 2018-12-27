@@ -1,0 +1,83 @@
+{
+  "name": "speed-sheet",
+  "version": "1.0.0",
+  "description": "A React / Redux webapp for musicians to create lead sheets quickly and export to PDF",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack --mode production",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottMorse/SpeedSheet.git"
+  },
+  "keywords": [
+    "speed",
+    "sheet",
+    "music",
+    "note",
+    "notes",
+    "notation",
+    "react",
+    "redux",
+    "lead",
+    "notation",
+    "program",
+    "app",
+    "website",
+    "webapp",
+    "application",
+    "finale",
+    "sibelius",
+    "score",
+    "instrument",
+    "instruments",
+    "instrumentation",
+    "pdf",
+    "musician",
+    "compose",
+    "composer",
+    "arrange",
+    "arranger",
+    "arrangement",
+    "arrangements",
+    "composers",
+    "composition",
+    "compositions",
+    "create",
+    "creating"
+  ],
+  "author": "Scott Morse",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ScottMorse/SpeedSheet/issues"
+  },
+  "homepage": "https://github.com/ScottMorse/SpeedSheet#readme",
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@babel/preset-env": "7.2.0",
+    "@babel/preset-react": "7.0.0",
+    "babel-loader": "8.0.4",
+    "html-loader": "0.5.5",
+    "html-webpack-plugin": "3.2.0",
+    "webpack": "4.27.1",
+    "webpack-cli": "3.1.2",
+    "webpack-dev-server": "3.1.10"
+  },
+  "dependencies": {
+    "express": "4.16.4",
+    "jest": "23.6.0",
+    "nodemon": "1.18.7",
+    "path": "0.12.7",
+    "react": "16.6.3",
+    "react-dom": "16.6.3",
+    "react-redux": "6.0.0",
+    "react-router": "4.3.1",
+    "react-router-dom": "4.3.1",
+    "redux": "4.0.1",
+    "styled-components": "4.1.2",
+    "webpack-dev-middleware": "3.4.0",
+    "webpack-hot-middleware": "2.24.3"
+  }
+}
